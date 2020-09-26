@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BalancedBrackets")]
+[assembly: AssemblyTitle("UnderstandingStack")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BalancedBrackets")]
+[assembly: AssemblyProduct("UnderstandingStack")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9d8803c9-b03c-4540-93ad-aa777d94c71a")]
+[assembly: Guid("56602e8c-46d5-4229-a98e-080e0182df9b")]
 
 // Version information for an assembly consists of the following four values:
 //

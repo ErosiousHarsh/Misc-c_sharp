@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLeftRotation", "..\Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearChaosBribe", "..\NewYearChaosBribe\NewYearChaosBribe.csproj", "{1EA0FBDA-533E-4106-A2B3-01E884177DFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBrackets", "..\BalancedBrackets\BalancedBrackets.csproj", "{9D8803C9-B03C-4540-93AD-AA777D94C71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingStack", "..\UnderstandingStack\UnderstandingStack.csproj", "{56602E8C-46D5-4229-A98E-080E0182DF9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{1EA0FBDA-533E-4106-A2B3-01E884177DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA0FBDA-533E-4106-A2B3-01E884177DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA0FBDA-533E-4106-A2B3-01E884177DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8803C9-B03C-4540-93AD-AA777D94C71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8803C9-B03C-4540-93AD-AA777D94C71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8803C9-B03C-4540-93AD-AA777D94C71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8803C9-B03C-4540-93AD-AA777D94C71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56602E8C-46D5-4229-A98E-080E0182DF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56602E8C-46D5-4229-A98E-080E0182DF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56602E8C-46D5-4229-A98E-080E0182DF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56602E8C-46D5-4229-A98E-080E0182DF9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
