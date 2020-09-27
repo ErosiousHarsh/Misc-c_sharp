@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingStack", "..\Un
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSwapsToSort", "..\MinimumSwapsToSort\MinimumSwapsToSort.csproj", "{D5931B7C-D131-41C8-AF98-A3689A534F05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMain", "..\NoMain\NoMain.csproj", "{420BE614-B479-4055-9A36-7A6693430484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulation", "..\ArrayManipulation\ArrayManipulation.csproj", "{9FE9F429-E86C-453B-BD9D-3F70BCA8B747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{D5931B7C-D131-41C8-AF98-A3689A534F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5931B7C-D131-41C8-AF98-A3689A534F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5931B7C-D131-41C8-AF98-A3689A534F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420BE614-B479-4055-9A36-7A6693430484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420BE614-B479-4055-9A36-7A6693430484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420BE614-B479-4055-9A36-7A6693430484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420BE614-B479-4055-9A36-7A6693430484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE9F429-E86C-453B-BD9D-3F70BCA8B747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE9F429-E86C-453B-BD9D-3F70BCA8B747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE9F429-E86C-453B-BD9D-3F70BCA8B747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE9F429-E86C-453B-BD9D-3F70BCA8B747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -23,6 +23,10 @@ namespace MinimumSwapsToSort
                         arr[arr[i] - 1] = arr[i];
                         arr[i] = temp;
                         k++;
+                        /*Console.WriteLine();
+                        foreach (int a in arr)
+                            Console.Write(a + " ");
+                        Console.WriteLine();*/
                     }
                 }
             }
